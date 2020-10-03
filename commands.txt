@@ -1,0 +1,10 @@
+docker build -t natal/dockerwebapp . 
+
+docker images
+#read MY_SSH_KEY < ~/.ssh/id_rsa.pub
+
+docker run -p 49160:8080 -d natal/dockerwebapp                                  
+https://localhosts:49160
+
+Issue: Cannot run program - nohup
+	https://stackoverflow.com/questions/45140614/jenkins-pipeline-sh-fail-with-cannot-run-program-nohup-on-windows
