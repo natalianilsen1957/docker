@@ -4,6 +4,23 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
+:star: Here are some projects that I'm working on:
+- [Frontier of Hell](https://github.com/moepoi/Frontier-of-Hell)
+- [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)
+- [Nekoya](https://github.com/Nekoya-Site)
+- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
+- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
+- [Nepgear](https://t.me/NepgearBot)
+- [WhoisBot](https://t.me/WhoisBot)
+- [Moe API](https://beta.moe.team)
+
+
+
+
+
+
+
+
 <p align="center">
     <img src="https://build.burning-lab.com/app/rest/builds/buildType:id:UnityAssets_ComBurningLabSwipedetector_DevelopmentBuild/statusIcon.svg" alt="Build Status">
     <a href="https://burning-lab.youtrack.cloud/agiles/131-11/current"><img src="https://img.shields.io/badge/Roadmap-YouTrack-orange" alt="Roadmap Link"></a>
